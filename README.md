@@ -11,5 +11,5 @@ the order they raise a thumps up, to cancel the raise a thumps down.</p>
 
 <h2>Running the project</h2>
 <p>
-To run this project, you would need to install Conda, CUDA, Tensorflow, Mediapipe and Streamlit. After finishing the set up, clone the repo and go to the "Ordering System" file, open terminal and run the "streamlit run dashboard.py" 
+To run this project, you would need to install Conda, CUDA, Tensorflow, Mediapipe and Streamlit. After finishing the set up, clone the repo and go to the "Ordering System" file, open terminal and run "streamlit run dashboard.py" 
 </p>
