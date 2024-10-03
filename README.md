@@ -4,7 +4,7 @@
 
 <p>This is a university project. The motivation behind this project is to 
 propose a gesture-based food ordering system to enhance the dinning experience for those with hearing impairments. The system works by the user navigating the food menu by raising gesture "5". To confirm
-the order they raise a thumps up, to cancel the raise a thumps down.</p>
+the order they raise a thump up, to cancel the raise a thump down.</p>
 <p>
   Link to the demo: https://www.youtube.com/watch?v=y6HRzDvJ3Po
 </p>
