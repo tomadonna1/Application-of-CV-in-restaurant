@@ -1,18 +1,20 @@
-<h1>🎨 HandDraw: Real-Time Gesture-Based Drawing with AI 🖐️</h1>
+<h1>Hands-Free Food Ordering: A Gesture-Based Interface for Restaurants</h1>
 
-<h2>📝 Project Description</h2>
+<h2>Project Description</h2>
 
-<p><strong>HandDraw</strong> is a Python-based project that uses <strong>MediaPipe</strong> for hand landmarks detection and <strong>OpenCV</strong> for real-time drawing. The software captures hand gestures and visualizes them as drawings on the screen, offering an interactive and creative user experience. This project demonstrates the power of combining <strong>AI</strong> with real-time image processing to build innovative applications.</p>
+<p>This is a university project. The motivation behind this project is to 
+propose a gesture-based food ordering system to enhance the dinning experience for those with hearing impairments. The system works by the user navigating the food menu by raising gesture "5". To confirm
+the order they raise a thumps up, to cancel the raise a thumps down.</p>
 
 <h2>🎥 Demo</h2>
 
-<p>Check out the demo of <strong>HandDraw</strong> in action below!</p>
-<img src="demo.gif" alt="HandDraw Demo" style="max-width:100%;">
+<p>Check out the demo of <strong>Hand gesture ordering</strong> in action below!</p>
+<img src="picture.png" alt="Demo" style="max-width:100%;">
 
-[![Watch the video](https://github.com/Kevinbui16/HandDraw-Real-Time-Gesture-Based-Drawing-with-AI/blob/main/Hand_detection/draw_image.png)](https://www.youtube.com/watch?v=Pw8q8O9CqHE)
+[![Watch the video](https://github.com/tomadonna1/Application-of-CV-in-restaurant/picture.png)](https://www.youtube.com/watch?v=y6HRzDvJ3Po)
 
 <p align="center">
-  The demo could also be found at: https://www.youtube.com/watch?v=Pw8q8O9CqHE
+  The demo could also be found at: https://www.youtube.com/watch?v=y6HRzDvJ3Po
 </p>
 
 <p><em>In the demo, you can see a real-time drawing of "I ❤️ U" using hand gestures.</em></p>
