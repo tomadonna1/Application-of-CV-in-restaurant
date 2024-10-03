@@ -11,7 +11,7 @@ the order they raise a thumps up, to cancel the raise a thumps down.</p>
 <p>Check out the demo of <strong>Hand gesture ordering</strong> in action below!</p>
 <img src="picture.png" alt="Demo" style="max-width:100%;">
 
-[![Watch the video](https://github.com/tomadonna1/Application-of-CV-in-restaurant/picture.png)](https://www.youtube.com/watch?v=y6HRzDvJ3Po)
+<!-- [![Watch the video](https://github.com/tomadonna1/Application-of-CV-in-restaurant/picture.png)](https://www.youtube.com/watch?v=y6HRzDvJ3Po) -->
 
 <p align="center">
   The demo could also be found at: https://www.youtube.com/watch?v=y6HRzDvJ3Po
